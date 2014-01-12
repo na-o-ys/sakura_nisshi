@@ -1,0 +1,7 @@
+/.bundle/
+Gemfile.lock
+config.yml
+/log/*
+.base_date
+token*
+*.swp
